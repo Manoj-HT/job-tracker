@@ -24,13 +24,13 @@
         width: 100%;
         position: sticky;
         padding: 8px;
+        z-index: 10;
     }
     .body {
         height: calc(100% - ( 4rem + 8px ));
         margin: 0 8px;
         border: 2px solid var(--theme);
         border-radius: 1rem;
-        padding: 1rem;
-        background-color: white;
+        background-color: var(--background-white);
     }
 </style>

@@ -7,4 +7,14 @@
 :root{
     --theme: rgb(0, 162, 255);
     --timing: 0.5s;
+    --background-white: white;
+}
+
+.transparency{
+    padding: 0;
+    background: transparent;
+    border: none;
+}
+.main-container{
+    padding: 10px;
 }

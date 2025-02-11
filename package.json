@@ -19,8 +19,5 @@
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
 	},
-	"type": "module",
-	"dependencies": {
-		"svelte-routing": "^2.13.0"
-	}
+	"type": "module"
 }
